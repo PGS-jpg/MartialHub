@@ -1,0 +1,11 @@
+{
+  "[project]/components/selestialhub/academy-map.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/selestialhub/academy-map.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_leaflet_dist_leaflet_ef5f0413.css",
+      "static/chunks/node_modules_e6cb4c19._.js",
+      "static/chunks/components_selestialhub_academy-map_tsx_69698e4b._.js",
+      "static/chunks/components_selestialhub_academy-map_tsx_371cc5cb._.js"
+    ]
+  }
+}

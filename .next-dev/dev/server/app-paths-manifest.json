@@ -1,0 +1,13 @@
+{
+  "/academias/page": "app/academias/page.js",
+  "/chat/page": "app/chat/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/eventos/page": "app/eventos/page.js",
+  "/loja/page": "app/loja/page.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/ranking/page": "app/ranking/page.js",
+  "/tecnicos/page": "app/tecnicos/page.js",
+  "/treino/page": "app/treino/page.js"
+}

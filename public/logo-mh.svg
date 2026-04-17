@@ -1,0 +1,20 @@
+<svg width="560" height="120" viewBox="0 0 560 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="selestialGlow" x1="22" y1="20" x2="112" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A2E"/>
+      <stop offset="1" stop-color="#FF4D00"/>
+    </linearGradient>
+    <linearGradient id="selestialWord" x1="132" y1="14" x2="540" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE5C3"/>
+      <stop offset="0.35" stop-color="#FFB56A"/>
+      <stop offset="1" stop-color="#FF6A1E"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="66" cy="60" r="40" stroke="url(#selestialGlow)" stroke-width="8"/>
+  <path d="M84 32C69 34 58 47 58 63C58 79 69 92 84 94C71 86 64 75 64 63C64 51 71 40 84 32Z" fill="url(#selestialGlow)"/>
+  <path d="M88 42L92 51L102 52L95 59L97 69L88 64L79 69L81 59L74 52L84 51L88 42Z" fill="#FFF2DF"/>
+
+  <text x="132" y="57" fill="url(#selestialWord)" font-family="Oswald, Arial, sans-serif" font-size="44" font-style="italic" font-weight="700" letter-spacing="1.4">SELESTIAL</text>
+  <text x="132" y="92" fill="#FFD7AE" font-family="Oswald, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="6">HUB</text>
+</svg>

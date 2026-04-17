@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SelestialHub</string>
+    <string name="title_activity_main">SelestialHub</string>
+    <string name="package_name">com.selestialhub.app</string>
+    <string name="custom_url_scheme">com.selestialhub.app</string>
+</resources>
