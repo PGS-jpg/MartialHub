@@ -1,35 +1,6 @@
-# v0 runtime files
-__v0_runtime_loader.js
-__v0_devtools.tsx
-__v0_jsx-dev-runtime.ts
-
-# Common ignores
-node_modules/
-.next/
-.env*.local
-.DS_Store
-
-# Python virtual environments
-.venv/
-.venv-1/
-.venv_broken/
-
-# Build and cache
-dist/
-build/
-coverage/
-.pytest_cache/
+node_modules
+.next
+.next-dev 
+.db
+.pyc
 __pycache__/
-*.pyc
-
-# Logs
-*.log
-npm-debug.log*
-pnpm-debug.log*
-
-# Local databases
-*.db
-*.sqlite
-
-# Editor
-.vscode/
